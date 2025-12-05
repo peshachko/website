@@ -1,1 +1,5 @@
-# Уеб страница на НПО Пешачко
+## Уеб страница на НПО Пешачко
+
++ Preview
+  + [production](https://peshachko.github.io)
+  + [dev](https://peshachko-github-io.pages.dev) (deployed on cloudflare by pushing to a `web-*` branch)
