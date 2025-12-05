@@ -4,6 +4,7 @@ site_description = "Пешачко -- инициатива за чист въз�
 site_author = "Димитър Димитров (drdv.github.io)"
 site_url = "https://peshachko.bg/"
 repo_url = "https://github.com/peshachko/website"
+edit_uri = "edit/main/docs/"
 copyright = """
 Copyright &copy; 2025 НПО Пешачко
 """
