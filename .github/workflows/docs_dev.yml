@@ -2,13 +2,13 @@ name: Deploy Web Preview
 on:
   push:
     branches:
-      - 'web-*'
+      - 'dev-*'
 
 permissions:
   contents: write
 
 env:
-  DEV_PAGES_BRANCH: dev-gh-pages
+  DEV_PAGES_BRANCH: gh-pages-dev
 
 jobs:
   deploy:
