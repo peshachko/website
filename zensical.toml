@@ -80,6 +80,10 @@ icon = "fontawesome/brands/facebook"
 link = "https://www.facebook.com/share/1ap91aSfj3"
 
 [[project.extra.social]]
+icon = "fontawesome/brands/instagram"
+link = "https://www.instagram.com/peshachko"
+
+[[project.extra.social]]
 icon = "fontawesome/solid/paper-plane"
 link = "mailto:contact@peshachko.bg"
 
