@@ -1,5 +1,6 @@
 ---
 icon: lucide/users
+description: Планирани събития на НПО Пешачко.
 ---
 
 # Събития
