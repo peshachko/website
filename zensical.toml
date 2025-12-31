@@ -1,7 +1,7 @@
 [project]
 site_name = "Пешачко"
 site_description = "Пешачко -- инициатива за чист въздух и здраве."
-site_author = "Димитър Димитров (drdv.github.io)"
+site_author = "Димитър Димитров (drdv.net)"
 site_url = "https://peshachko.bg/"
 repo_url = "https://github.com/peshachko/peshachko.github.io"
 edit_uri = "edit/main/docs/"
