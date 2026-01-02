@@ -96,6 +96,10 @@ provider = "google"
 property = "G-MPZCVSVPZM"
 
 [[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/peshachko"
+
+[[project.extra.social]]
 icon = "fontawesome/brands/facebook"
 link = "https://www.facebook.com/share/1ap91aSfj3"
 
