@@ -11,7 +11,9 @@
 вземеш градския транспорт, ходи за кеф - за себе си, за всички нас!
 
 Ако искаш да се свържеш с нас, можеш да ни пишеш на `contact@peshachko.bg` или да се
-включиш в групите ни във [Фейсбук](https://www.facebook.com/share/1ap91aSfj3) и
-[Инстаграм](https://www.instagram.com/peshachko). Нашата документация, както и
-дискусиите за предстоящи събития, се намират в [GitHub](https://github.com/peshachko).
-Ако искаш да участваш, изпрати ни своя GitHub акаунт и ще те добавим.
+включиш в групите ни във 
+[:fontawesome-brands-facebook: Фейсбук](https://www.facebook.com/share/1ap91aSfj3) и
+[:fontawesome-brands-instagram: Инстаграм](https://www.instagram.com/peshachko). 
+Нашата документация, както и дискусиите за предстоящи събития, се намират в
+[:fontawesome-brands-github: GitHub](https://github.com/peshachko). Ако искаш да участваш, изпрати ни своя GitHub
+акаунт и ще те добавим.
